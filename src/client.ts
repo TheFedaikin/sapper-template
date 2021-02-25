@@ -1,5 +1,5 @@
-import { start } from "@sapper/app"
+import { start } from '@sapper/app'
 
 start({
-  target: document.querySelector("#sapper"),
+  target: document.querySelector('#sapper'),
 })

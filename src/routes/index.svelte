@@ -1,5 +1,5 @@
 <script>
-  import successkid from "images/successkid.jpg"
+  import successkid from 'images/successkid.jpg'
 </script>
 
 <svelte:head>
@@ -14,9 +14,7 @@
 </figure>
 
 <p>
-  <strong
-    >Try editing this file (src/routes/index.svelte) to test live reloading.</strong
-  >
+  <strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong>
 </p>
 
 <style>
