@@ -1,4 +1,6 @@
-# sapper-template
+# This is deprecated in favor of [SvelteKit](https://kit.svelte.dev/)
+
+## sapper-template
 
 The default template for setting up a [Sapper](https://github.com/sveltejs/sapper) project. Can use either Rollup or webpack as bundler.
 
